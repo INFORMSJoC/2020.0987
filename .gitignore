@@ -1,0 +1,10 @@
+.vscode/*
+docs/build/*
+docs/notebooks/*
+docs/src/examples/*.md
+docs/src/tutorial/*.md
+docs/Manifest.toml
+docs/spaghetti_plot.html
+test/*.js
+*.DS_Store
+*.log
