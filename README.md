@@ -2,7 +2,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the
-[MPL2 license](LICENSE).
+[MPL2 license](LICENSE.md).
 
 The software and data in this repository are associated with the paper
 [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org)
