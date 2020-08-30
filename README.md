@@ -2,12 +2,16 @@
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the
-[MPL2 license](LICENSE).
+[MPL2 license](LICENSE.md).
 
 The software and data in this repository are associated with the paper
 [SDDP.jl: a Julia package for stochastic dual dynamic programming](https://doi.org)
-by O. Dowson and L. Kapelevich. This repository is a snapshot of the project at
-the time the paper was written and is provided for historical interest.
+by O. Dowson and L. Kapelevich. 
+
+This repository is a snapshot of the project, taken on 2020-08-27 from 
+[https://github.com/odow/SDDP.jl](https://github.com/odow/SDDP.jl) at commit 
+[`c8c078c2f07bc3e3aa420c7d197e88ae819e56b1`](https://github.com/odow/SDDP.jl/commit/c8c078c2f07bc3e3aa420c7d197e88ae819e56b1), 
+and is provided for historical interest.
 
 Readers are directed to [https://github.com/odow/SDDP.jl](https://github.com/odow/SDDP.jl)
 for the actively developed project repository, and to
