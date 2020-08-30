@@ -10,7 +10,9 @@ by O. Dowson and L. Kapelevich. This repository is a snapshot of the project at
 the time the paper was written and is provided for historical interest.
 
 Readers are directed to [https://github.com/odow/SDDP.jl](https://github.com/odow/SDDP.jl)
-for the actively developed project repository.
+for the actively developed project repository, and to
+[https://odow.github.io/SDDP.jl/latest/](https://odow.github.io/SDDP.jl/latest/)
+for the latest documentation.
 
 To run the example in the paper, first install any 1.X version of Julia (e.g.,
 1.0 or 1.5) from [julialang.org](https://julialang.org/downloads). Then, run:
@@ -18,5 +20,5 @@ To run the example in the paper, first install any 1.X version of Julia (e.g.,
 git clone https://github.com/INFORMSJoC/2020-01-OA-003
 cd 2020-01-OA-003
 julia --project=. -e 'import Pkg; Pkg.instantiate()'
-julia --project=. paper_example.jl
+julia --project=. examples/paper_models/dk_2020.jl
 ```

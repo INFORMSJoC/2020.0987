@@ -1,3 +1,16 @@
+#  Copyright 2017-20, Oscar Dowson
+# This Source Code Form is subject to the terms of the Mozilla Public License,
+# v. 2.0. If a copy of the MPL was not distributed with this file, You can
+# obtain one at http://mozilla.org/MPL/2.0/.
+
+#=
+    The code in this file runs the examples from the paper
+
+    Dowson, O. and Kapelevich, L. (2020). SDDP.jl - a Julia package for
+    stochastic dual dynamic programming. INFORMS Journal on Computing. To
+    appear.
+=#
+
 using SDDP, GLPK, Statistics
 graph = SDDP.LinearGraph(3)
 SDDP.add_edge(graph, 3 => 1, 0.95)
