@@ -13,6 +13,11 @@ This repository is a snapshot of the project, taken on 2020-08-27 from
 [`c8c078c2f07bc3e3aa420c7d197e88ae819e56b1`](https://github.com/odow/SDDP.jl/commit/c8c078c2f07bc3e3aa420c7d197e88ae819e56b1),
 and is provided for historical interest.
 
+To cite this software, please cite the paper, as listed above, and the software 
+itself, using the followinf DOI.
+
+[![DOI](https://zenodo.org/badge/290669197.svg)](https://zenodo.org/badge/latestdoi/290669197)
+
 Readers are directed to [https://github.com/odow/SDDP.jl](https://github.com/odow/SDDP.jl)
 for the actively developed project repository, and to
 [https://odow.github.io/SDDP.jl/latest/](https://odow.github.io/SDDP.jl/latest/)
