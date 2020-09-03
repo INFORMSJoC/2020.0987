@@ -13,8 +13,8 @@ This repository is a snapshot of the project, taken on 2020-08-27 from
 [`c8c078c2f07bc3e3aa420c7d197e88ae819e56b1`](https://github.com/odow/SDDP.jl/commit/c8c078c2f07bc3e3aa420c7d197e88ae819e56b1),
 and is provided for historical interest.
 
-To cite this software, please cite the paper, as listed above, and the software 
-itself, using the followinf DOI.
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.0987) using its DOI
+and the software  itself, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/290669197.svg)](https://zenodo.org/badge/latestdoi/290669197)
 
