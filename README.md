@@ -16,7 +16,7 @@ and is provided for historical interest.
 To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.0987) using its DOI
 and the software  itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/290669197.svg)](https://zenodo.org/badge/latestdoi/290669197)
+[DOI: https://doi.org/10.1287/ijoc.2020.0987.cd](https://doi.org/10.1287/ijoc.2020.0987.cd)
 
 Readers are directed to [https://github.com/odow/SDDP.jl](https://github.com/odow/SDDP.jl)
 for the actively developed project repository, and to
